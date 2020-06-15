@@ -9,6 +9,7 @@ import java.util.List;
 
 
 @RestController
+@CrossOrigin
 @RequestMapping("/properties")
 public class PropertyController {
 
